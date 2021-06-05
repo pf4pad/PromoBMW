@@ -1,4 +1,4 @@
-const server = 'https://jsonplaceholder.typicode.com/posts2';
+const server = 'https://jsonplaceholder.typicode.com/posts';
 
 const sendData = (data, callBack, falseCallBack) =>{
 
